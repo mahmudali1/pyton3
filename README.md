@@ -1,2 +1,2 @@
-# pyton3
-pyt2020
+# mahmud
+it consist of most all commands of Numpy
